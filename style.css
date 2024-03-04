@@ -1,0 +1,21 @@
+.container{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row-reverse; 
+    gap: 10px;
+    align-items: center;
+}
+a:hover{
+    color: rgb(187, 38, 190);
+}
+button{
+    padding: 10px 10px;
+}
+a{
+    text-decoration:none;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
